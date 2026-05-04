@@ -8,9 +8,13 @@ Cyber Security Attacks Dataset
 https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks
 
 ##  Models Used
-- Logistic Regression
-- Random Forest
-- Support Vector Machine (SVM)
+•	Logistic Regression  
+•	Decision Tree  
+•	K-Nearest Neighbours (KNN)  
+•	Random Forest  
+•	Gradient Boosting  
+•	Support Vector Machine (SVM)
+
 
 ##  Research Questions
 - RQ1: Baseline Performance
